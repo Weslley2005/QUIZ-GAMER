@@ -1,0 +1,122 @@
+[
+  {
+      "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+      "opcoes": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+      "correta": "George Washington"
+  },
+  {
+      "pergunta": "Qual é o maior oceano do mundo?",
+      "opcoes": ["Oceano Atlântico", "Oceano Pacífico", "Oceano Índico", "Oceano Ártico"],
+      "correta": "Oceano Pacífico"
+  },
+  {
+      "pergunta": "Quem escreveu 'O Pequeno Príncipe'?",
+      "opcoes": ["Antoine de Saint-Exupéry", "J.K. Rowling", "F. Scott Fitzgerald", "Hermann Hesse"],
+      "correta": "Antoine de Saint-Exupéry"
+  },
+  {
+      "pergunta": "Qual é a maior montanha do mundo?",
+      "opcoes": ["Monte Everest", "Monte Kilimanjaro", "Monte Aconcágua", "Monte Denali"],
+      "correta": "Monte Everest"
+  },
+  {
+      "pergunta": "Em que ano ocorreu a Revolução Francesa?",
+      "opcoes": ["1776", "1789", "1812", "1848"],
+      "correta": "1789"
+  },
+  {
+      "pergunta": "Quem foi o primeiro homem a pisar na Lua?",
+      "opcoes": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+      "correta": "Neil Armstrong"
+  },
+  {
+      "pergunta": "Qual é a capital do Brasil?",
+      "opcoes": ["São Paulo", "Rio de Janeiro", "Brasília", "Salvador"],
+      "correta": "Brasília"
+  },
+  {
+      "pergunta": "Quem é conhecido como 'o Rei do Pop'?",
+      "opcoes": ["Elvis Presley", "Michael Jackson", "Prince", "Madonna"],
+      "correta": "Michael Jackson"
+  },
+  {
+      "pergunta": "Qual é o país mais populoso do mundo?",
+      "opcoes": ["Índia", "China", "Estados Unidos", "Brasil"],
+      "correta": "China"
+  },
+  {
+      "pergunta": "Quem escreveu 'Harry Potter'?",
+      "opcoes": ["Stephen King", "J.K. Rowling", "George R.R. Martin", "J.R.R. Tolkien"],
+      "correta": "J.K. Rowling"
+  },
+  {
+      "pergunta": "Qual é o maior animal terrestre?",
+      "opcoes": ["Elefante Africano", "Girafa", "Hipopótamo", "Baleia Azul"],
+      "correta": "Elefante Africano"
+  },
+  {
+      "pergunta": "Quem foi o líder do movimento pelos direitos civis nos Estados Unidos?",
+      "opcoes": ["Malcolm X", "Martin Luther King Jr.", "Nelson Mandela", "Rosa Parks"],
+      "correta": "Martin Luther King Jr."
+  },
+  {
+      "pergunta": "Qual é o país com a maior área territorial do mundo?",
+      "opcoes": ["Rússia", "Canadá", "China", "Estados Unidos"],
+      "correta": "Rússia"
+  },
+  {
+      "pergunta": "Quem é considerado o pai da filosofia ocidental?",
+      "opcoes": ["Platão", "Sócrates", "Aristóteles", "Heráclito"],
+      "correta": "Sócrates"
+  },
+  {
+      "pergunta": "Qual é o nome completo da obra de Leonardo da Vinci conhecida como 'A Última Ceia'?",
+      "opcoes": ["A Última Ceia de Jesus Cristo", "A Última Ceia dos Apóstolos", "A Última Ceia dos Discípulos", "A Última Ceia de Leonardo da Vinci"],
+      "correta": "A Última Ceia de Leonardo da Vinci"
+  },
+  {
+      "pergunta": "Quem foi o autor de 'O Senhor dos Anéis'?",
+      "opcoes": ["George R.R. Martin", "J.R.R. Tolkien", "C.S. Lewis", "Philip K. Dick"],
+      "correta": "J.R.R. Tolkien"
+  },
+  {
+      "pergunta": "Qual é a cor primária que resulta da mistura de todas as cores do espectro visível?",
+      "opcoes": ["Vermelho", "Azul", "Verde", "Branco"],
+      "correta": "Branco"
+  },
+  {
+      "pergunta": "Em que ano ocorreu a Primeira Guerra Mundial?",
+      "opcoes": ["1905", "1914", "1922", "1939"],
+      "correta": "1914"
+  },
+  {
+      "pergunta": "Qual é a maior ilha do mundo?",
+      "opcoes": ["Ilha de Baffin", "Ilha de Ellesmere", "Ilha de Nova Guiné", "Ilha de Groenlândia"],
+      "correta": "Ilha de Groenlândia"
+  },
+  {
+      "pergunta": "Quem foi o primeiro homem a viajar para o espaço?",
+      "opcoes": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Alan Shepard"],
+      "correta": "Yuri Gagarin"
+  },
+  {
+      "pergunta": "Qual é o nome da cor que representa zero no sistema hexadecimal?",
+      "opcoes": ["Preto", "Branco", "Cinza", "Vermelho"],
+      "correta": "Preto"
+  },
+  {
+      "pergunta": "Quem é o criador da obra 'Guernica'?",
+      "opcoes": ["Pablo Picasso", "Vincent van Gogh", "Salvador Dalí", "René Magritte"],
+      "correta": "Pablo Picasso"
+  },
+  {
+      "pergunta": "Qual é a data do Descobrimento do Brasil?",
+      "opcoes": ["12 de outubro de 1492", "7 de setembro de 1822", "22 de abril de 1500", "9 de janeiro de 1553"],
+      "correta": "22 de abril de 1500"
+  },
+  {
+      "pergunta": "Qual é a velocidade da luz no vácuo?",
+      "opcoes": ["300.000 km/s", "200.000 km/s", "150.000 km/s", "100.000 km/s"],
+      "correta": "300.000 km/s"
+  }
+]

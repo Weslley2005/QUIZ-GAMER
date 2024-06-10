@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jogo de Quiz</title>
+
+  <style>
+    body {
+      background-color: lightblue;
+    }
+
+    #container-boas-vindas {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+    }
+
+    #bemVindo {
+      color: dodgerblue;
+      font-size: 40px;
+      margin-bottom: 20px;
+    }
+
+    #container-nome input[type="text"] {
+      padding: 10px;
+      font-size: 16px;
+      border-radius: 5px;
+      border: 2px solid dodgerblue;
+      margin-bottom: 10px;
+      width: 200px;
+    }
+
+    button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: dodgerblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+
+    #areaJogo {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+    }
+
+    #container-pergunta, #placar {
+      display: none;
+      background-color: #fff;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+      margin-bottom: 20px;
+    }
+
+    #container-pergunta h2 {
+      font-size: 28px;
+      color: dodgerblue;
+      margin-bottom: 10px;
+    }
+
+    #pergunta {
+      font-size: 18px;
+      margin-bottom: 20px;
+    }
+
+    .opcao-resposta {
+      display: inline-block;
+      margin-right: 10px;
+      margin-bottom: 10px;
+      padding: 8px 16px;
+      font-size: 16px;
+      font-weight: bold;
+      color: #fff;
+      background-color: dodgerblue;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .opcao-resposta:hover {
+      background-color: #0056b3;
+    }
+
+    #placar {
+      background-color: #f0f0f0;
+      color: #333;
+      text-align: left;
+    }
+
+    #placar h2 {
+      font-size: 28px;
+      color: dodgerblue;
+      margin-bottom: 10px;
+    }
+
+    #pontuacoes {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    #pontuacoes li {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+
+    #feedback {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color: dodgerblue;
+      padding: 20px;
+      border-radius: 10px;
+      color: #fff;
+      font-size: 24px;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="container-boas-vindas">
+    <h1 id="bemVindo">Bem-vindo ao Quiz!</h1>
+    <div id="container-nome">
+      <input type="text" id="nome-jogador" placeholder="Digite seu nome" />
+      <button id="botao-iniciar">Iniciar Quiz</button>
+    </div>
+  </div>
+  
+  <div id="areaJogo">
+    <div id="container-pergunta">
+      <h2>Pergunta</h2>
+      <p id="pergunta"></p>
+      <div id="opcoes"></div>
+    </div>
+    
+    <div id="placar">
+      <h2>Pontuação</h2>
+      <ul id="pontuacoes"></ul>
+    </div>
+  </div>
+
+  <div id="feedback"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
