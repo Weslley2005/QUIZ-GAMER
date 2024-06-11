@@ -10,7 +10,7 @@
       "correta": "Oceano Pacífico"
   },
   {
-      "pergunta": "Quem escreveu 'O Pequeno Príncipe'?",
+      "pergunta": "Quem escreveu O Pequeno Príncipe?",
       "opcoes": ["Antoine de Saint-Exupéry", "J.K. Rowling", "F. Scott Fitzgerald", "Hermann Hesse"],
       "correta": "Antoine de Saint-Exupéry"
   },
@@ -118,5 +118,105 @@
       "pergunta": "Qual é a velocidade da luz no vácuo?",
       "opcoes": ["300.000 km/s", "200.000 km/s", "150.000 km/s", "100.000 km/s"],
       "correta": "300.000 km/s"
-  }
+  },
+  {
+    "pergunta": "Quem foi o pintor da Mona Lisa?",
+    "opcoes": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Salvador Dalí"],
+    "correta": "Leonardo da Vinci"
+},
+{
+    "pergunta": "Qual é a cidade conhecida como 'A Cidade Eterna'?",
+    "opcoes": ["Paris", "Atenas", "Roma", "Jerusalém"],
+    "correta": "Roma"
+},
+{
+    "pergunta": "Quem foi o fundador da Microsoft?",
+    "opcoes": ["Bill Gates", "Steve Jobs", "Mark Zuckerberg", "Jeff Bezos"],
+    "correta": "Bill Gates"
+},
+{
+    "pergunta": "Qual é o país que tem a forma de uma bota?",
+    "opcoes": ["Itália", "Espanha", "Portugal", "Grécia"],
+    "correta": "Itália"
+},
+{
+    "pergunta": "Quem é o autor de 'Dom Quixote'?",
+    "opcoes": ["Miguel de Cervantes", "William Shakespeare", "Charles Dickens", "Victor Hugo"],
+    "correta": "Miguel de Cervantes"
+},
+{
+    "pergunta": "Qual é o planeta mais próximo do Sol?",
+    "opcoes": ["Marte", "Vênus", "Mercúrio", "Júpiter"],
+    "correta": "Mercúrio"
+},
+{
+    "pergunta": "Quem foi o primeiro astronauta a orbitar a Terra?",
+    "opcoes": ["Yuri Gagarin", "Neil Armstrong", "John Glenn", "Buzz Aldrin"],
+    "correta": "Yuri Gagarin"
+},
+{
+    "pergunta": "Qual é o metal mais abundante na crosta terrestre?",
+    "opcoes": ["Ferro", "Cobre", "Alumínio", "Ouro"],
+    "correta": "Alumínio"
+},
+{
+    "pergunta": "Quem é o autor de '1984'?",
+    "opcoes": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Jules Verne"],
+    "correta": "George Orwell"
+},
+{
+    "pergunta": "Qual é o maior rio do mundo em volume de água?",
+    "opcoes": ["Rio Nilo", "Rio Amazonas", "Rio Yangtzé", "Rio Mississipi"],
+    "correta": "Rio Amazonas"
+},
+{
+    "pergunta": "Quem é conhecido como o 'pai da psicanálise'?",
+    "opcoes": ["Sigmund Freud", "Carl Jung", "Alfred Adler", "Erik Erikson"],
+    "correta": "Sigmund Freud"
+},
+{
+    "pergunta": "Qual é o componente principal do ar que respiramos?",
+    "opcoes": ["Oxigênio", "Nitrogênio", "Dióxido de carbono", "Argônio"],
+    "correta": "Oxigênio"
+},
+{
+    "pergunta": "Quem foi o primeiro presidente do Brasil?",
+    "opcoes": ["Getúlio Vargas", "Juscelino Kubitschek", "Deodoro da Fonseca", "Dilma Rousseff"],
+    "correta": "Deodoro da Fonseca"
+},
+{
+    "pergunta": "Qual é o maior deserto do mundo?",
+    "opcoes": ["Deserto do Saara", "Deserto da Arábia", "Deserto de Gobi", "Deserto de Kalahari"],
+    "correta": "Deserto do Saara"
+},
+{
+    "pergunta": "Quem é o autor de 'Romeu e Julieta'?",
+    "opcoes": ["William Shakespeare", "Charles Dickens", "Jane Austen", "F. Scott Fitzgerald"],
+    "correta": "William Shakespeare"
+},
+{
+    "pergunta": "Qual é o número atômico do hidrogênio?",
+    "opcoes": ["1", "2", "3", "4"],
+    "correta": "1"
+},
+{
+    "pergunta": "Quem é o autor de 'A Metamorfose'?",
+    "opcoes": ["Franz Kafka", "Friedrich Nietzsche", "Fyodor Dostoevsky", "Leo Tolstoy"],
+    "correta": "Franz Kafka"
+},
+{
+    "pergunta": "Qual é o maior mamífero marinho?",
+    "opcoes": ["Tubarão-baleia", "Baleia-azul", "Baleia-cinzenta", "Orca"],
+    "correta": "Baleia-azul"
+},
+{
+    "pergunta": "Quem foi o primeiro imperador romano?",
+    "opcoes": ["Julio César", "Augusto", "Nero", "Trajano"],
+    "correta": "Augusto"
+},
+{
+    "pergunta": "Qual é o nome do processo em que as plantas convertem a luz solar em energia?",
+    "opcoes": ["Fotossíntese", "Respiração", "Fermentação", "Digestão"],
+    "correta": "Fotossíntese"
+}
 ]

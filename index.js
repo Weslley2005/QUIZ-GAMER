@@ -7,7 +7,11 @@ const app = express();
 const server = http.createServer(app);
 const wss = new WebSocket.Server({ server });
 
-app.use(express.static('view'));
+app.use(express.static('public'));
+
+app.get('/', (req, res) => {
+  res.sendFile(__dirname + '/view/index.html');
+});
 
 const perguntas = JSON.parse(fs.readFileSync('perguntas.json'));
 

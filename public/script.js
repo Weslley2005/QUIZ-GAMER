@@ -18,7 +18,7 @@ botaoIniciar.addEventListener('click', () => {
     elementoPontuacoes.parentElement.style.display = 'block';
     iniciarQuiz();
   } else {
-    alert('Por favor, digite seu nome para iniciar o quiz.');
+    alert('Por favor, digite o nome para iniciar o quiz.');
   }
 });
 
